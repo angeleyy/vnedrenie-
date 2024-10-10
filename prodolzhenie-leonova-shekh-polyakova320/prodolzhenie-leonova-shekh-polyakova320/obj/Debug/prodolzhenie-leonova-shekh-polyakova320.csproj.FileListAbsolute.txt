@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\obj\Debug\prodolzhenie-leonova-shekh-polyakova320.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\obj\Debug\App.g.cs
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\obj\Debug\prodolzhenie-leonova-shekh-polyakova320_MarkupCompile.cache
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\obj\Debug\prodolzhenie-leonova-shekh-polyakova320_MarkupCompile.lref
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\bin\Debug\prodolzhenie-leonova-shekh-polyakova320.exe.config
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\bin\Debug\prodolzhenie-leonova-shekh-polyakova320.exe
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\bin\Debug\prodolzhenie-leonova-shekh-polyakova320.pdb
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\obj\Debug\prodolzhenie-leonova-shekh-polyakova320.g.resources
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\obj\Debug\prodolzhenie_leonova_shekh_polyakova320.Properties.Resources.resources
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\obj\Debug\prodolzhenie-leonova-shekh-polyakova320.csproj.GenerateResource.cache
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\obj\Debug\prodolzhenie-leonova-shekh-polyakova320.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\obj\Debug\prodolzhenie-leonova-shekh-polyakova320.exe
+C:\Users\user\Desktop\320\prodolzhenie-leonova-shekh-polyakova320\prodolzhenie-leonova-shekh-polyakova320\obj\Debug\prodolzhenie-leonova-shekh-polyakova320.pdb
