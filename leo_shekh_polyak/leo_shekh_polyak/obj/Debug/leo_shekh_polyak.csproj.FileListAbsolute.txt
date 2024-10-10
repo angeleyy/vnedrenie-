@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\obj\Debug\leo_shekh_polyak.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\obj\Debug\App.g.cs
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\obj\Debug\leo_shekh_polyak_MarkupCompile.cache
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\obj\Debug\leo_shekh_polyak.g.resources
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\obj\Debug\leo_shekh_polyak.Properties.Resources.resources
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\obj\Debug\leo_shekh_polyak.csproj.GenerateResource.cache
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\obj\Debug\leo_shekh_polyak.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\bin\Debug\leo_shekh_polyak.exe.config
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\bin\Debug\leo_shekh_polyak.exe
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\bin\Debug\leo_shekh_polyak.pdb
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\obj\Debug\leo_shekh_polyak.exe
+C:\Users\user\Desktop\320\leo_shekh_polyak\leo_shekh_polyak\obj\Debug\leo_shekh_polyak.pdb
